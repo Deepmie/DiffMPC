@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: diffmpc
+Version: 0.1.0
+Summary: a library use to compute MPC problem with grad
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown

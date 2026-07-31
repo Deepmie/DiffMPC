@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/diffmpc/__init__.py
+src/diffmpc/config.py
+src/diffmpc/lqr.py
+src/diffmpc/mpc.py
+src/diffmpc/system.py
+src/diffmpc.egg-info/PKG-INFO
+src/diffmpc.egg-info/SOURCES.txt
+src/diffmpc.egg-info/dependency_links.txt
+src/diffmpc.egg-info/top_level.txt
