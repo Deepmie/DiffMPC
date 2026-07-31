@@ -15,6 +15,6 @@ dependencies = [
 ]
 
 [tool.uv.sources]
-torch = { path = "/workspace/Proj/pytorch-whl/torch-2.11.0+cu128-cp311-cp311-manylinux_2_28_x86_64.whl" }
+torch = { path = "../../pytorch-whl/torch-2.11.0+cu128-cp311-cp311-manylinux_2_28_x86_64.whl" }
 qpth = { path = "./thirdparty/qpth" }
 diffmpc = { path = "../DiffMPC", editable = true }
